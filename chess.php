@@ -1,3 +1,5 @@
+// to create an chessboard using php
+
 <table width="400px" cellspacing="0px" cellpadding="0px" border="1px">
 <?php
 for($row=1;$row<=8;$row++)
@@ -18,4 +20,5 @@ echo "<td height=35px width=30px bgcolor=black></td>";
 echo "</tr>";
 }
 ?>
+
 </table>
