@@ -1,3 +1,4 @@
+// display the sorted arra using array function
 <?php
 
 $a=array("Sagar"=>"31" , "Vicky"=>"41" , "Leena"=>"39" , "Ramesh"=>"40");
@@ -18,4 +19,5 @@ print_r($a);
 echo "\nSorted in decending order by key..\n";
 krsort($a);
 print_r($a);
+
 ?>  
