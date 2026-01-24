@@ -1,3 +1,5 @@
+// to set a cookie in php
+
 <?php
 setcookie("username", "iamNotswagat", time() + 60 * 60 * 24 * 7);
 ?>
@@ -12,5 +14,6 @@ setcookie("username", "iamNotswagat", time() + 60 * 60 * 24 * 7);
     }
     ?>
 </body>
+
 
 </html>
