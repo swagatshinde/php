@@ -10,7 +10,6 @@ $_SESSION["hra"] = $hra;
 header('Location: page3.php');
 }
 ?>
-
 <form method="post">
 <label for="basic">Basic Salary:</label>
 <input type="basic" id="basic" name="basic" required><br><br>
